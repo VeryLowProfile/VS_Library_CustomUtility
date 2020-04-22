@@ -125,7 +125,7 @@ namespace CustomUtility_NET_F
             catch (Exception ex)
             {
                 //display error message
-                MessageBox.Show("Exception: Class ExcelDataTable - Metod ExportDataTableToExcel" + ex.Message);
+                MessageBox.Show("Exception: Class ExcelDataTable - Metod ExportDataTableToExcel " + ex.Message);
             }
         }
 

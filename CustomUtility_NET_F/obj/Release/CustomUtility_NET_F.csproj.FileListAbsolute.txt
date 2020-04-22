@@ -3,3 +3,4 @@ C:\Progetti\VisualStudio\Library\CustomUtility_NET_F\CustomUtility_NET_F\bin\Rel
 C:\Progetti\VisualStudio\Library\CustomUtility_NET_F\CustomUtility_NET_F\obj\Release\CustomUtility_NET_F.csproj.CoreCompileInputs.cache
 C:\Progetti\VisualStudio\Library\CustomUtility_NET_F\CustomUtility_NET_F\obj\Release\CustomUtility_NET_F.dll
 C:\Progetti\VisualStudio\Library\CustomUtility_NET_F\CustomUtility_NET_F\obj\Release\CustomUtility_NET_F.pdb
+C:\Progetti\VisualStudio\Library\CustomUtility_NET_F\CustomUtility_NET_F\obj\Release\CustomUtility_NET_F.csprojAssemblyReference.cache
